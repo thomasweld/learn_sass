@@ -1,0 +1,18 @@
+$bgColor: lightblue;
+$fontColor: purple;
+$lightColor: gray;
+
+
+body {
+  background: $bgColor;
+  color: $fontColor;
+}
+
+.container {
+  padding: 20px;
+
+  h3{
+    color: $lightColor;
+  }
+
+}

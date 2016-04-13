@@ -1,0 +1,8 @@
+body {
+  background: lightblue;
+  color: purple; }
+
+.container {
+  padding: 20px; }
+  .container h3 {
+    color: gray; }
